@@ -1,4 +1,4 @@
 # OCR-event-site-template
 A base template for OCR event websites
 
-(SingleEvent.html)
+[Single Event](SingleEvent.html)
